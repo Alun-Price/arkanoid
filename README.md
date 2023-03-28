@@ -10,4 +10,4 @@ It looked a bit like the image below but the bricks were all the same colour - b
 
 &nbsp;&nbsp;
 
-Arkanoid is the modern version of Breakout .. This version is written in Typescript. There are many versions of Arkanoid, with 'Arkanoid - Eternal Battle' (released Oct 27, 2022 on Steam) being the latest. The version here is more akin to the simpler initial version of Arkanoid!!
+Arkanoid is the modern version of Breakout .. This version is written in Typescript. There are many versions of Arkanoid, with 'Arkanoid - Eternal Battle' ([released Oct 27, 2022 on Steam](https://store.steampowered.com/app/1717270/Arkanoid__Eternal_Battle/)) being the latest. The version here is more akin to the simpler initial version of Arkanoid!!
