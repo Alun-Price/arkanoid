@@ -1,3 +1,4 @@
+import { Brick } from "./sprites/Brick";
 import {
   BRICK_IMAGES,
   LEVEL,
@@ -9,11 +10,9 @@ import {
   BRICK_ENERGY,
 } from "./setup";
 
-import { Brick } from "./sprites/Brick";
-
 export function createBricks(): Brick[] {
   return LEVEL.reduce((ack, element, i) => {
-    const row = Math.floor(i + 1) / STAGE_COLS;
+    const row = Math.floor((i + 1) / STAGE_COLS);
     const col = i % STAGE_COLS;
 
     const x = STAGE_PADDING + col * (BRICK_WIDTH + BRICK_PADDING);

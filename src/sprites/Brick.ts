@@ -21,17 +21,21 @@ export class Brick {
   get width(): number {
     return this.brickWidth;
   }
+
   get height(): number {
     return this.brickHeight;
   }
+
   get pos(): Vector {
     return this.position;
   }
-  get energy(): number {
-    return this.brickEnergy;
-  }
+
   get image(): HTMLImageElement {
     return this.brickImage;
+  }
+
+  get energy(): number {
+    return this.brickEnergy;
   }
 
   // Setter
