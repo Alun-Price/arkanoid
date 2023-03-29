@@ -7,13 +7,13 @@
     "sourceMap": true,
     "strict": true,
     "moduleResolution": "node",
-    "baseUrl": "./src",
+    "baseUrl": "./",
     "paths": {
       "~/*": ["./*"]
     },
-    "typeRoots": ["src/images/"],
+    "typeRoots": ["images"],
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*", "images"]
 }
