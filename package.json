@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel serve src/index.html",
     "watch": "parcel watch src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
