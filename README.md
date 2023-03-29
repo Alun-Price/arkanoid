@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e80eff9-9915-4d2a-b960-12b4a5da21f8/deploy-status)](https://app.netlify.com/sites/alun-arkanoid/deploys)
+
 # Breakout/ Arkanoid
 
 Breakout was the first game I ever coded. It was on a ZX Spectrum using BASIC from a book ...
